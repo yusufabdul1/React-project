@@ -1,0 +1,11 @@
+{
+    "workouts": [
+      {
+        "id": 1,
+        "name": "Push-Ups",
+        "type": "Strength",
+        "duration": 30
+      }
+    ]
+  }
+  
