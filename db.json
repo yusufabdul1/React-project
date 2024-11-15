@@ -1,11 +1,11 @@
 {
-    "workouts": [
-      {
-        "id": 1,
-        "name": "Push-Ups",
-        "type": "Strength",
-        "duration": 30
-      }
-    ]
-  }
-  
+  "workouts": [
+    {
+      "id": "c52f",
+      "name": "pushups",
+      "type": "strength",
+      "duration": "10",
+      "intensity": "High"
+    }
+  ]
+}
